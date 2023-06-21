@@ -1,10 +1,10 @@
 
 # **Title: Facial Expression Recognition**
 
-![image](https://github.com/psrana/Github-Project-Readme/assets/7460892/f5d0ec1b-158d-4e65-9110-ac75b7c2f246)
+
 
 ## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
+![image](https://github.com/psrana/Github-Project-Readme/assets/7460892/f5d0ec1b-158d-4e65-9110-ac75b7c2f246)
 
 
 ## **2. Description**
